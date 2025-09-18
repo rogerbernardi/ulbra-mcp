@@ -112,3 +112,4 @@ ADMIN_PASSWORD=123456
 - Node.js >= 18.0.0
 - Backend ULBRA rodando e acessível
 - Credenciais de administrador válidas
+
