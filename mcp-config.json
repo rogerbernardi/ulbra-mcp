@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "ulbra-supply": {
+      "command": "node",
+      "args": ["C:/data/git/ulbra-mcp/index.js"],
+      "env": {
+        "BACKEND_URL": "http://192.168.37.1:3100",
+        "ADMIN_EMAIL": "admin@ulbra.edu.br",
+        "ADMIN_PASSWORD": "123456"
+      }
+    }
+  }
+}

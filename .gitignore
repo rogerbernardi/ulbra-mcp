@@ -1,0 +1,11 @@
+# Ignorar todos arquivos .csv, .png e .json
+#*.csv
+
+# Ignorar diretório /scripts/data/*
+#/scripts/data/*
+
+# Ignorar node_modules (em qualquer lugar do projeto)
+node_modules/
+
+.env
+.DS_Store

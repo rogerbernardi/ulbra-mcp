@@ -1,0 +1,7 @@
+# ULBRA Supply MCP Server Configuration
+BACKEND_URL=http://192.168.37.1:3100
+ADMIN_EMAIL=admin@ulbra.edu.br
+ADMIN_PASSWORD=123456
+
+# Optional: OpenAI API Key (if needed for direct embedding generation)
+# OPENAI_API_KEY=your_openai_api_key_here
